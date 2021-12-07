@@ -1,0 +1,34 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, lightpink,rgb(245, 131, 150), rgb(227, 170, 230),violet, rgb(212, 69, 212));
+
+}
+
+.header
+{
+	color: white;
+	font-family: 'Yeon Sung';
+	font-size: 45px;
+	letter-spacing: 10px;
+
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+#user_name{
+	color: white;
+}
+
+#output{
+background-color: lightskyblue;
+border-radius: 50px;
+}
